@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="banner.gif" alt="Imagem redimensionada" width="500" height="300">
 
-<!--
-**Kbalionis/Kbalionis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Bem-vindo ao meu GitHub!  
 
-Here are some ideas to get you started:
+Olá! 👋 Sou um entusiasta de programação, especialmente com **Python**. Aqui você encontrará projetos, experimentos e aprendizados sobre desenvolvimento de software.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 Sobre mim  
+💡 Apaixonado por tecnologia e resolução de problemas.  
+📌 Compartilhando projetos com foco em **Python**, desde automação até análise de dados.  
+🎯 Sempre em busca de novos desafios e aprendizados.  
+
+## 📂 O que você encontrará aqui?  
+🔹 Scripts úteis e soluções para problemas do dia a dia.  
+🔹 Projetos usando **bibliotecas populares** como `pandas`, `flask`, `tkinter` e muito mais.  
+🔹 Aplicações com **herança, geração de senhas e animações interativas**.  
+
+## 📫 Entre em contato!  
+💼 [LinkedIn](https://www.linkedin.com/in/kristoffersonbalionis)  
+📧 [E-mail](mailto:kbalionis@yahoo.com.br)  
+
+✨ **Sinta-se à vontade para explorar e contribuir!**  

@@ -1,7 +1,8 @@
-<img src="banner.gif" alt="Imagem redimensionada" width="500" height="300">
+<img src="banner.gif" alt="Imagem redimensionada" width="500" height="250">
 
 # 🚀 Bem-vindo ao meu GitHub!  
 ## 🛠 Tecnologias que uso  
+
 
 Olá! 👋 Sou um entusiasta de programação, especialmente com **Python**. Aqui você encontrará projetos, experimentos e aprendizados sobre desenvolvimento de software.  
 

@@ -1,4 +1,4 @@
-<img src="C:\Users\KbF\OneDrive\T.I\Cursos\Python\PYTáOn\logo.png" alt="" width="500" height="250">
+<img src="banner.gif" alt="Imagem redimensionada" width="500" height="250">
 
 ### 🚀 Bem-vindo ao meu GitHub!
 

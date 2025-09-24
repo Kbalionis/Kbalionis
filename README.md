@@ -1,4 +1,4 @@
-<img src="banner.gif" alt="Imagem redimensionada" width="500" height="250">
+<img src=https://media.licdn.com/dms/image/v2/D4D16AQETdZo_qGfqjg/profile-displaybackgroundimage-shrink_350_1400/B4DZl9QgKIGQAY-/0/1758743103774?e=1761782400&v=beta&t=KeWPk5cd0lWPqvqNjwsXEeAxGj_bxe8CiFQ_h0Wu1TA>
 
 ### 🚀 Bem-vindo ao meu GitHub!
 

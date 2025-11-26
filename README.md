@@ -83,6 +83,6 @@ Olá! 👋 Sou um entusiasta de programação, especialmente com **Python**. Aqu
 
 ### 📫 Entre em contato!  
 💼 [LinkedIn](https://www.linkedin.com/in/kristoffersonbalionis)  
-📧 [E-mail](mailto:kbalionis@yahoo.com.br)  
+📧 [E-mail](mailto:kbalionis@outlook.com.br)  
 
 ✨ **Sinta-se à vontade para explorar e contribuir!**  
